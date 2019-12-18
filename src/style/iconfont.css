@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+    src: url('//at.alicdn.com/t/font_1543941_8w3riwsyyj8.eot?t=1575377806314'); /* IE9 */
+    src: url('//at.alicdn.com/t/font_1543941_8w3riwsyyj8.eot?t=1575377806314#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANkAAsAAAAAB6AAAAMXAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDCIJ5ATYCJAMMCwgABCAFhG0HOBvBBhHVmznIfiTGMSnrzJI3oWo3Ezz/r1Pv+1+yHWJWmZwUmJUC0oQ09nQHCsFYHtvVAfByWtUvoxCmU/Z830/fAckmR/n1P5fjW36ArW9ZLnMtO+oFGAcU0N7YJiuQXoLaMHZBSzwNAbyJJxcZPHT0ZFwYmJMEkBVLF8/FlTFgNJQLLgRHxUoDOYWJSx1W74GTweflN8XiAoWpMc8av2jIAqzv43/817bHZoa2saezAWwdaCAXMEBmVTqa0FEiF423qjCa8x0YCGqqsMcTCDSZw/rDA4WAODBLfQHIRDrFRQkdNhT8+C+66noNgANYCc3AU0yEPtCBEehteAcG+oX4+W73f/k51nH9S1nAm28Jzhtft9h3vf2P3BcJEH8T/540P/AJOHqPyfY5b+8jF0SaL/r4HD3Plmzt+iPnwD5/9CLf70KjtLW5W1om00Jr65T29sbmtnkeL8mlzX2kpXJqnTBrb2kp/ELpKS7LNSXI5exN/yB/HLplJVq2ysI5/QHOQ845UAW2KZ3oqRILAtToW+zb67PYpzcCVb9b9F651613i9V7/Xpxvy8e0KSWnzy1wiXVqVM9sqPG7v4jltttAamg0ViXraJGckfHOC5f7szFsvUD8yarDRvU5EnOYw4AHlvP1TaA9tOlf+073EkI/zM7oPafy8cAoMt3x4kg4LENuiddKGDCfyTs2GRoYtOoDUXgCIy0ZjiON6DHW1PyZyoBgukb7gqDxCa4uBCCwkkcaFykIgaRGzTx4Til4MBFAwRvchi23ocQ1qERwwvIZj8AIZAnoPDnLWgC+YAYRC+YhPMXHASKBm/cErKjD2S6uMsgwVlxg+UPbuVMtlkvYfkNzTvOkhYHtBfK7sLQN10+fcWMMsWc/WMGVQISTjCB8zBGhiLscdXGqpaxbanqRc3KqbowSHBW3IDlD7iVM3nt9VJ4/w3NO87SQKlyvlB21z3Q09B1QK6K3IlyK5fsHzOgSgAJJ2ACNoxWgoFSPczjqg12QKyMtKgVdVU0y6vS++0AvDEXaVGixcBcYznj4er9dV1VAA==') format('woff2'),
+    url('//at.alicdn.com/t/font_1543941_8w3riwsyyj8.woff?t=1575377806314') format('woff'),
+    url('//at.alicdn.com/t/font_1543941_8w3riwsyyj8.ttf?t=1575377806314') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('//at.alicdn.com/t/font_1543941_8w3riwsyyj8.svg?t=1575377806314#iconfont') format('svg'); /* iOS 4.1- */
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-phone:before {
+    content: "\e8f6";
+  }
+  
+  .icon-icon--:before {
+    content: "\e750";
+  }
+  
